@@ -1,6 +1,6 @@
 ﻿/* Author: Anastasia Clements
  * Course: COMP-003A
- *Purpose: Assignment 2 (working with strings and math) */
+ *Purpose: Assignment 2 (strings and math) */
 namespace COMP003A.Assignment2
 {
     internal class Program
